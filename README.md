@@ -1,5 +1,4 @@
-👋 Hi, I’m developing quality apps and in learning stage for creating positive effect apps
-
+👋 Hi, I’m working as android developer and always keen to develop quality apps and in love learning new things. 
 
 <!---
 gurpreetdeveloping/gurpreetdeveloping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
